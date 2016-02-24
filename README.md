@@ -5,7 +5,6 @@
 
 ##Changelog
 This is under development. A very first look of this template is here for you. 
-####Version 1.0  (February 24, 2016)
 
 ##Browser support
 
