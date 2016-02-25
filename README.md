@@ -19,7 +19,7 @@ This is under development. A very first look of this template is here for you.
 ####![](http://theme.winfuture.it/pub/icons/ie.png) Internet Explorer
 
 ##Template developer/designer
-* [Luqman Quadri](mailto:luqman.quadri@gmail.com)
+* [Luqman Quadri](mailto:luqman.quadri@gmail.com), a young and  dynamic software engineer.
 
 
 ## License
