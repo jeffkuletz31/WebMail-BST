@@ -1160,6 +1160,9 @@ li.compose-button .btn{
 	background-color: #ffdbdb;
 }
 
+
+/* email table style */
+
 .email-table{
 	 padding: 0px;
 	 height: 400px;
@@ -1172,6 +1175,24 @@ li.compose-button .btn{
 .email-table tbody tr:HOVER{
 	border-left: 3px solid #3c8dbc;
 }
+
+.seen{
+	background-color: #f3f3f3;
+}
+.unseen{
+	background-color: #ffffff;
+}
+
+
+
+.table > tbody > tr > td.active:hover,
+.table > tbody > tr > th.active:hover,
+.table > tbody > tr.active:hover > td,
+.table > tbody > tr:hover > .active,
+.table > tbody > tr.active:hover > th {
+  background-color:transparent;
+}
+
 
 
 	/* controll bottons for inbox */
