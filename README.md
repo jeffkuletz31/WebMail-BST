@@ -4,7 +4,13 @@
 
 
 ##Changelog
-This is under development. A very first look of this template is here for you. 
+This is under development. A very first look of this template is here for you. For now it contains a login page and a inbox page. 
+**Future work** or **work in progress**
+* Adding compose page
+* Adding View mail page
+* Adding View attachment page
+* other small but worthy changes
+
 
 ##Browser support
 
